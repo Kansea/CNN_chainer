@@ -1,0 +1,4 @@
+0 basketball
+1 biking
+2 diving
+3 volleyball_spiking
